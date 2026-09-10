@@ -1,1 +1,0 @@
-Hello DevOps - AWS and Docker
